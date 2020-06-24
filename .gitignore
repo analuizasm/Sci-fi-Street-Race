@@ -1,3 +1,5 @@
 makefile
 *.o
 jogo2.c
+resources/images/ranking.png
+
